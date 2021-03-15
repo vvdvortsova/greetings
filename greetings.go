@@ -1,7 +1,7 @@
 package greetings
 
 import "fmt"
-import gd "example.com/greetingsdeps"
+import gd "github.com/vvdvortsova/greetingsdeps"
 
 // Hello returns a greeting for the named person.
 func Hello(name string) string {
